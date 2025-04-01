@@ -54,6 +54,6 @@ Les visualisations incluent :
 ## Auteurs
 Projet réalisé par **[Votre Équipe]** dans le cadre d'une étude de data journalisme.
 
-## Licence
-Ce projet est sous licence MIT. Vous êtes libre de l'utiliser et de le modifier sous réserve de citation.
+## Resultat 
+<img width="891" alt="image" src="https://github.com/user-attachments/assets/276d93d0-9d33-4f5b-9c39-b81fe3a46355" />
 
