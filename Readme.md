@@ -1,4 +1,3 @@
-```markdown
 # EXAMEN 1 : Analyse des contrôles policiers à San Diego
 📌 **Objectif** : Étudier l’influence de l’âge et de l’ethnie sur les motifs de contrôle policier à travers de l’Analyse Factorielle et la Clusterisation.
 
@@ -104,4 +103,3 @@
 - Clustering et segmentation (classification hiérarchique, ACM).
 - Web scraping (`rvest`, extraction de données).
 - Exportation et gestion des données (fichiers CSV).
-```
