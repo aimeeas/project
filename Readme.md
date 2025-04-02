@@ -95,6 +95,25 @@
 
 ---
 
+# EUROPEAN SOCCER : Moteur de Recherche
+
+## Objectif du Projet : Créer une base de données complexe pour gérer et analyser des informations sur des joueurs, agents, clubs et ligues, tout en appliquant des compétences en gestion de bases de données.
+
+## Étapes du Projet :
+1. **Modélisation des données** : Création des tables pour les joueurs, agents, clubs et ligues avec des relations définies.
+2. **Nettoyage et transformation des données** : Identification et correction des incohérences, gestion des doublons, et ajustement des formats.
+3. **Création de filtres de recherche** : Développement de fonctionnalités de recherche avancée (saisie directe, menus déroulants, plages de prix).
+4. **Optimisation des requêtes** : Amélioration des requêtes SQL pour extraire rapidement les informations.
+5. **Gestion des relations complexes** : Mise en place de tables pour gérer les relations multiples entre les entités (joueurs-clubs, clubs-ligues).
+
+## Technologies Utilisées :
+- **SQL** : Pour la gestion et manipulation des données.
+- **phpMyAdmin** : Outil pour la gestion de la base de données MySQL.
+- **HTML** : Pour les interfaces de recherche et de visualisation.
+- **PHP** : Pour le traitement des requêtes et l'affichage dynamique des résultats.
+
+------
+
 # 📌 Compétences acquises :
 - Exploration et nettoyage des données (imputation, transformation, suppression de doublons).
 - Analyse statistique (régression linéaire, Analyse Factorielle, modélisation causale).
@@ -103,3 +122,5 @@
 - Clustering et segmentation (classification hiérarchique, ACM).
 - Web scraping (`rvest`, extraction de données).
 - Exportation et gestion des données (fichiers CSV).
+- Création de base de données et utilisation de phpMyAdmin
+- Notions de SQL, Php et HTML
