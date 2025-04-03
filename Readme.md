@@ -1,3 +1,6 @@
+### Ce répertoire regroupe tous mes principaux projets réalisés dans le cadre du Master Données et Société à l'Université Paris Nanterre. Vous trouverez ci-dessous un résumé de chaque projet, et leur code est disponible dans les fichiers ci-dessus.
+
+
 # EXAMEN 1 : Analyse des contrôles policiers à San Diego
 📌 **Objectif** : Étudier l’influence de l’âge et de l’ethnie sur les motifs de contrôle policier à travers de l’Analyse Factorielle et la Clusterisation.
 
